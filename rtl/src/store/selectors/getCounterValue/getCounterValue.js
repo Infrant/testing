@@ -1,0 +1,1 @@
+export const getCounterValue = store => store?.counter?.value || 0
